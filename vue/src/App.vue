@@ -145,7 +145,7 @@ button {
 
 button {
   cursor: pointer;
-    font-size: 2vh;
+    font-size: 1.5vh;
     background-color: rgb(46, 49, 47);
     color: #CA801B;
     border: 2px solid black;
